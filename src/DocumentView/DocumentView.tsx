@@ -16,6 +16,8 @@ import * as AnnotOptions from "../AnnotOptions/AnnotOptions";
  * Object containing PropTypes types for {@link DocumentView} class.
  * Also used to generate prop types for TS users.
  * 
+ * Add comment to trigger update JS files.
+ * 
  * To represent functions, please use {@link func}.
  * To represent "one of Config.Buttons values" or "an array of 
  * Config.Buttons values", please use {@link oneOf} or {@link arrayOf}.
